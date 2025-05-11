@@ -1,0 +1,2 @@
+To open a file, use the os package’s Open function. An example of how to
+read a file’s contents and show them on the terminal:
