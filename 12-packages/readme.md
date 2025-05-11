@@ -1,4 +1,5 @@
 # Tổ chức source code trong go (package and module)
+```
 hoc-golang/
 ├── go.mod
 ├── main.go
@@ -6,6 +7,7 @@ hoc-golang/
 │   └── cat.go
 └── dog/
     └── dog.go
+```
 - khởi tạo module trong go : go mod init "ten module"
 - hàm chạy chứa package là main và function bắt đầu compile và chạy cũng là main
 - Để tạo và import các package khác thì lúc import ta dùng  "ten module"/{tên package}
